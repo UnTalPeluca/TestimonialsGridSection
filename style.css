@@ -21,6 +21,10 @@ body{
     padding-top: 75px;
     padding-bottom: 45px;
 }
+.title{
+    visibility: hidden;
+    position: absolute;
+}
 .grid{
     display: grid;
     gap: 20px;
