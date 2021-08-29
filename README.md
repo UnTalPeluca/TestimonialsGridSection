@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-css-grid-zWvo52mwz)
+- Live Site URL: [GitHub Page](https://untalpeluca.github.io/TestimonialsGridSection/)
 
 ## My process
 
